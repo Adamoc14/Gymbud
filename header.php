@@ -5,7 +5,7 @@
 </head>
 <body>
 	<ul>
-		<li>Home</li>
+		<li></li>
 		<li>Home</li>
 		<li>Home</li>
 		<li>Home</li>
