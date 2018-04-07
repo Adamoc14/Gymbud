@@ -3,5 +3,5 @@
 
 <?php 
 
-echo "Happy Birthday Matthew";
+echo "Welcome to Gymbud";
 ?>
