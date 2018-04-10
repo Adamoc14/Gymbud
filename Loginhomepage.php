@@ -13,7 +13,7 @@
 
 
 <?php
-    include('header.php');
+    include('Loginheader.php');
 ?>
 
 
@@ -21,8 +21,8 @@
 
 
     <div id="inputContainer">
-        <div id="WelcomeMessage">
-            <h1>Welcome to Gymbud</h1>
+       <h1>Sign Into Your Account</h1> 
+       <div id="WelcomeMessage">
             <div id="Gymbud_logoContainer">
                 <img src="https://dewey.tailorbrands.com/production/brand_version_mockup_image/819/712153819_c8f6ea8e-7948-4517-a3ac-1587e557ef6e.png?cb=1523085120" id="Gymbud_logo">
             </div>
@@ -35,12 +35,12 @@
         
         <div id="LoginInfo">
             <form action="LoginHomepage.php" method="post">
-                <label for="UsersUsername">Username:</label>
+                
                 <input type="text" name="User_Username" id="UsersUsername" maxlength="30" placeholder="Username or Email" autocorrect="off" autocomplete="off" autocapitalize="off"  aria-describedby="" aria-label="Username or Email" aria-required="true"  value="" required>
                 <br>
                 <br>
                 <br>
-               <label for="UsersPassword">Password:</label>
+               
                 <input type="password" name="User_Password" id="UsersPassword" maxlength="20"  placeholder="Password"  autocorrect="off" autocomplete="off" autocapitalize="off"  aria-describedby="" aria-label="Password" aria-required="true"  value="" required>
                 <br>
             </form>

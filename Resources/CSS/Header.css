@@ -12,10 +12,13 @@ a{
 
 .container{
     position: absolute;
-    height:8%;
+    height:10%;
     background: white;
     width:100%;
+    border-bottom: 1px solid orange ;
 }
+
+
 
 .container ul{
     position:absolute;
