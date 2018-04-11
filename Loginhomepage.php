@@ -55,14 +55,14 @@
     
         <div id="SocialMediaAlternativesContainer">
             <h1 id="UserSignInAlternative">or sign in with one of these &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; services</h1>
-               <div id="UserSocialIconsContainer">
+               
                    <div id="UserLoginIcons">
-                        <i><span class="fa fa-facebook fa-2x" aria-hidden="true" ></span></i>
-                        <i><span class="fa fa-google fa-2x" aria-hidden="true"></span></i>
+                        <i class="fa fa-facebook fa-3x" aria-hidden="true" ></i>
+                        <i class="fa fa-google fa-3x" aria-hidden="true"></i>
                     </div>
                    
                
-                </div> 
+                
                         
         </div>
     

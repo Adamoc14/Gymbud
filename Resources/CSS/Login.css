@@ -121,8 +121,8 @@ html,body{
     top:23%;
     left:75%;
     width:20%;
-    height:20%;
-    background: red;
+    height:23%;
+    border: 2px outset black;
 }
 
 #UserSignInAlternative{
@@ -133,43 +133,71 @@ html,body{
     top:12%;
 }
 
-#UserSocialIconsContainer{
-    position:absolute;
-    width: 100%;
-    height:30%;
-    top: 55%;
-    left:10%;
 
-  }
   
   i{
     background:white;
-    padding:2.5%;
     position:relative;
-    left:10%;
-    margin:20px;
+    margin:15px;
+    top:-10%;
+    padding:4%;
   }
   
   #UserLoginIcons .fa-facebook{
     color:white;
-    width:4%;
+    width:30%;
     text-align:center;
-    background: #29B;
+    background: #4285f4;
+    padding: 4%;
+    position: relative;
+    top:-2%;
     
   }
   
   
-  #UserLoginIcons .fa-gmail{
-    color:#29B6F6;
-    width:4%;
-    text-align:center;
+  #UserLoginIcons .fa-google{
+   width:80px;
+   height:80px;
+   border-radius:50%;
+   position:absolute;
+   border-top: 15px solid #ea4335;
+   border-bottom: 15px solid #34a853;
+   border-left: 15px solid #fbb605;
+   border-right: 15px solid #4285f4 ;
+  
+
     
   }
   
-  
+  #UserLoginIcons .fa-google:before{
+    content: '';
+    position:absolute;
+    top:-75%;
+    left:36%;
+    border-top: 35px solid transparent;
+   border-bottom: 35px solid #fff;
+   border-left: 35px solid transparent;
+   border-right: 35px solid transparent;
+   border-radius: 0%;
+  }
+
+  #UserLoginIcons .fa-google:after{
+    content: '';
+    position:absolute;
+    width:40px;
+    height:15px;
+    top:40%;
+    left:50%;
+    background: #4285f4;
+  }
   
   #UserLoginIcons {
     position:relative;
-    left:5%;
+    width: 80%;
+    height:50%;
+    top:15%;
+    left:10%;
+
+    
   }
   
