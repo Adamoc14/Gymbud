@@ -12,30 +12,30 @@ html,body{
 
 #inputContainer{
     position:absolute;
-    top:15%;
-    left:28%;
-    width:40%;
-    height:80%;
+    top:12%;
+    left:35%;
+    width:30%;
+    height:90%;
+    border:3px solid black;
+    border-radius:15%;
 }
 
-#WelcomeMessage{
+
+
+#SignIn{
     position:absolute;
-    left:30%;
-    top:10%;
-   
-}
-#WelcomeMessage h1{
-    position: relative;
-    left:-5%;
-    top:50%;  
+    top:45%;
+    left:20%;
     font-family: Dancing Script;
+
 }
+
 
 
 #LoginInfo{
    position:absolute;
    left:25%;
-   top:55%; 
+   top:57%; 
    width:55%;
    
 }
@@ -61,16 +61,18 @@ html,body{
 
 #Gymbud_logoContainer{
     position:absolute;
-    top:115%;
-    left:-5%;
-    height:500%;
-    width:100%;
+    top:15%;
+    left:30%;
+    height:25%;
+    width:35%;
 }
 #Gymbud_logoContainer img{
-    height:80%;
     position: relative;
-    left:30%;
+    height:80%;
+    left:25%;
+    top:18%;
 }
+
 #Gymbud_logo{
     position: relative;
     top:20%;
@@ -92,3 +94,82 @@ html,body{
     outline:none;
     
 }
+
+#hr1{
+    position:absolute;
+    top:13%;
+    width:100%;
+}
+
+#hr2{
+    position:absolute;   
+    top:90%;
+    width:100%;
+}
+
+#LoginIphonebutton{
+    position: absolute;
+    border-radius:50%;
+    padding:5%;
+    border: 2px solid black;
+    top:92%;
+    left:45%;
+}
+
+#SocialMediaAlternativesContainer{
+    position:absolute;
+    top:23%;
+    left:75%;
+    width:20%;
+    height:20%;
+    background: red;
+}
+
+#UserSignInAlternative{
+    font-size: 16px;
+    font-family: delius;
+    position: relative;
+    left:8%;
+    top:12%;
+}
+
+#UserSocialIconsContainer{
+    position:absolute;
+    width: 100%;
+    height:30%;
+    top: 55%;
+    left:10%;
+
+  }
+  
+  i{
+    background:white;
+    padding:2.5%;
+    position:relative;
+    left:10%;
+    margin:20px;
+  }
+  
+  #UserLoginIcons .fa-facebook{
+    color:white;
+    width:4%;
+    text-align:center;
+    background: #29B;
+    
+  }
+  
+  
+  #UserLoginIcons .fa-gmail{
+    color:#29B6F6;
+    width:4%;
+    text-align:center;
+    
+  }
+  
+  
+  
+  #UserLoginIcons {
+    position:relative;
+    left:5%;
+  }
+  

@@ -8,6 +8,7 @@
     <link href="https://fonts.googleapis.com/css?family=Calligraffitti|Delius|Give+You+Glory|La+Belle+Aurore|Oxygen+Mono|Schoolbell|Sirin+Stencil|Sue+Ellen+Francisco|The+Girl+Next+Door|Erica+One|Modak|Sigmar+One|Indie Flower|Yellowtail|Satisfy|Rancho|Dancing Script|VT323" rel="stylesheet">
     <link rel="stylesheet" type="text/css" media="screen" href="Resources/CSS/Login.css" />
     <script src="Resources/JS/.js"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 </head>
 <body>
 
@@ -21,12 +22,13 @@
 
 
     <div id="inputContainer">
-       <h1>Sign Into Your Account</h1> 
-       <div id="WelcomeMessage">
+        <hr id="hr1">
+       <h1 id="SignIn">Sign Into Your Account</h1> 
+
             <div id="Gymbud_logoContainer">
                 <img src="https://dewey.tailorbrands.com/production/brand_version_mockup_image/819/712153819_c8f6ea8e-7948-4517-a3ac-1587e557ef6e.png?cb=1523085120" id="Gymbud_logo">
             </div>
-        </div>
+
         <br>
         <br>
         <br>
@@ -46,7 +48,24 @@
             </form>
             <input type="submit" id="UserLoginButton" value="Login">
         </div>
+        <hr id="hr2">
+        <button id="LoginIphonebutton">
     </div>
+
+    
+        <div id="SocialMediaAlternativesContainer">
+            <h1 id="UserSignInAlternative">or sign in with one of these &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; services</h1>
+               <div id="UserSocialIconsContainer">
+                   <div id="UserLoginIcons">
+                        <i><span class="fa fa-facebook fa-2x" aria-hidden="true" ></span></i>
+                        <i><span class="fa fa-google fa-2x" aria-hidden="true"></span></i>
+                    </div>
+                   
+               
+                </div> 
+                        
+        </div>
+    
 
 </body>
 </html>
