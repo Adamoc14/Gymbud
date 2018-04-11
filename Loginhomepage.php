@@ -47,9 +47,11 @@
                 <br>
             </form>
             <input type="submit" id="UserLoginButton" value="Login">
+            <h5>Forgot Your Password?</h5>
         </div>
         <hr id="hr2">
         <button id="LoginIphonebutton">
+
     </div>
 
     

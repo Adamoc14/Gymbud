@@ -12,7 +12,7 @@ html,body{
 
 #inputContainer{
     position:absolute;
-    top:12%;
+    top:11%;
     left:35%;
     width:30%;
     height:90%;
@@ -163,7 +163,7 @@ html,body{
    border-top: 15px solid #ea4335;
    border-bottom: 15px solid #34a853;
    border-left: 15px solid #fbb605;
-   border-right: 15px solid #4285f4 ;
+   border-right: 15px solid #4285f4;
   
 
     
@@ -173,7 +173,7 @@ html,body{
     content: '';
     position:absolute;
     top:-75%;
-    left:36%;
+    left:38%;
     border-top: 35px solid transparent;
    border-bottom: 35px solid #fff;
    border-left: 35px solid transparent;
@@ -199,5 +199,13 @@ html,body{
     left:10%;
 
     
+  }
+
+  h5{
+      font-family:delius;
+      position:absolute;
+      top:160%;
+      left:17%;
+      color:orange;
   }
   
