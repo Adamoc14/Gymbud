@@ -208,4 +208,75 @@ html,body{
       left:17%;
       color:orange;
   }
+
+  #AppStoreDownload{
+      background:black;
+      position: absolute;
+      top:70%;
+      left:70%;
+      color:white;
+      padding: 20px;
+      border-radius: 15px;
+      border:none;
+      font-size:10px;
+      width:13%;
+  }
+
+  #PlayStoreDownload{
+    background:black;
+    position: absolute;
+    top:70%;
+    left:85%;
+    color:white;
+    padding: 20px;
+    border-radius: 15px;
+    border:none;
+    font-size:10px;
+    width:13%;
+}
+#PlayStoreLine{
+    font-size: 17px;
+}
+
+#PlayStoreLine:hover{
+    font-size: 17px;
+    color:orange;
+}
+
+
+
+  #AppStoreLine:hover{
+      font-size: 17px;
+      color:orange;
+  }
+
+  #AppStoreLine{
+    font-size: 17px;
+}
+
+
+  .fa-apple{
+      position:absolute;
+      color:white;
+      background:black;
+      top:-5%;
+      left:-5%;
+  }
+
+
+  .fa-play{
+    position:absolute;
+    color:white;
+    background:black;
+    top:-5%;
+    left:-5%;
+}
+
+  #GetTheApp{
+      font-family: Indie Flower;
+      font-size: 24px;
+      position:absolute;
+      left:78%;
+      top: 62%;
+  }
   

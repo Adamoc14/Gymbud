@@ -12,6 +12,7 @@
         <div class="heading">
 			   <img src="https://dewey.tailorbrands.com/production/brand_version_mockup_image/688/712144688_ad4f3754-6361-4e36-9d53-9c05937cf79b.png?cb=1523084620" >
         </div>
+        <h3>Don't have an account? <a href="#" id = "UserSignUp">&nbsp;Sign up</a></h3>
     </div>  
 	
 </body>

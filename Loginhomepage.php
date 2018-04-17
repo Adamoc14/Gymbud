@@ -47,7 +47,7 @@
                 <br>
             </form>
             <input type="submit" id="UserLoginButton" value="Login">
-            <h5>Forgot Your Password?</h5>
+            <a href="#"><h5>Forgot Your Password?</h5></a>
         </div>
         <hr id="hr2">
         <button id="LoginIphonebutton">
@@ -61,13 +61,13 @@
                    <div id="UserLoginIcons">
                         <i class="fa fa-facebook fa-3x" aria-hidden="true" ></i>
                         <i class="fa fa-google fa-3x" aria-hidden="true"></i>
-                    </div>
-                   
-               
-                
-                        
+                    </div>            
         </div>
-    
+
+        <h3 id="GetTheApp">Download Our App</h3>
+
+        <button id="AppStoreDownload"><i class="fa fa-apple fa-4x" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now Available on the <br><b id="AppStoreLine">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;App Store<b> </button>
+        <button id="PlayStoreDownload"><i class="fa fa-play fa-4x" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now Available on the <br><b id="PlayStoreLine">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Play Store<b> </button>
 
 </body>
 </html>

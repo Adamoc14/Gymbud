@@ -23,3 +23,20 @@ a{
     left:2%;
 }
 
+h3{
+    font-family:delius;
+    font-size:18px;
+    position: relative;
+    left:75%;
+    top:35%;
+    
+
+
+}
+
+#UserSignUp{
+    position: relative;
+    color:orange;
+}
+
+
