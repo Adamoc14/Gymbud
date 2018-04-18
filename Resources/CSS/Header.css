@@ -12,37 +12,27 @@ a{
 
 .container{
     position: absolute;
-    height:10%;
+    height:5%;
     background: white;
     width:100%;
     border-bottom: 1px solid orange ;
 }
 
 
-
-.container ul{
-    position:absolute;
-    left:60%;
-    top:10%;
-    width:40%;
-    height: 80%;
+.heading{
+    position: absolute;
+    top:300%;
+    left:40%;
+    z-index:1;
 
 }
-
-.container ul li{
-    display:inline;
-    position: relative;
-    top:30%;
-    left:30%;
+.heading img {
+    position:relative;
+    left:45%;
 }
 
-.container ul li a{
-    color:black;
-    font-size:18px;
-    margin:2%;
-    font-family: sirin stencil;
-    
-}
+
+
   
   
   

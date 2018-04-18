@@ -12,14 +12,8 @@
 <body>
 	<div class="container">
         <div class="heading">
-			   <img src="https://dewey.tailorbrands.com/production/brand_version_mockup_image/688/712144688_ad4f3754-6361-4e36-9d53-9c05937cf79b.png?cb=1523084620" >
+			   <img src="https://dewey.tailorbrands.com/production/brand_version_mockup_image/688/712144688_ad4f3754-6361-4e36-9d53-9c05937cf79b.png?cb=1523084620" >        
         </div>
-        <ul>
-            <li><a href = "#">Home</a></li>
-            <li><a href = "#">Home</a></li>
-            <li><a href = "#">Home</a></li>
-            <li><a href = "#">Home</a></li>
-        </ul>
     </div>  
 	
 </body>
